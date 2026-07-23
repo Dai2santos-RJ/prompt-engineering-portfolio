@@ -23,12 +23,21 @@ The projects presented here explore instruction hierarchy, context control, outp
 
 ## Featured Projects
 
-### Behavioral Mapping v2.0
+### [Behavioral Mapping v2.0](projects/behavioral-mapping-v2/README.md)
 
 A non-clinical behavioral mapping prompt designed to identify patterns over time while maintaining a clear separation between observed data and analytical inference.
 
 **Key areas:** prompt safety, inference control, variable classification, confidence levels, longitudinal analysis, and documented limitations.
 
+**Project documentation:**
+
+- [Case Study](projects/behavioral-mapping-v2/README.md)
+- [English Prompt Documentation](projects/behavioral-mapping-v2/prompt-en.md)
+- [Portuguese Prompt Documentation](projects/behavioral-mapping-v2/prompt-pt.md)
+- [Evaluation Method](projects/behavioral-mapping-v2/evaluation.md)
+- [Version History](projects/behavioral-mapping-v2/changelog.md)
+
+**Status:** Documented project — version 2.0
 ### Academic Revision Prompt Master v4.3
 
 A modular prompt system for academic text analysis, revision, and auditing, with instruction hierarchy, output control, terminology standardization, and change documentation.
